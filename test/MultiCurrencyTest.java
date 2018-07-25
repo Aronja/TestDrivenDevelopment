@@ -1,5 +1,4 @@
 import org.junit.jupiter.api.Test;
-
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class MultiCurrencyTest {
@@ -13,8 +12,4 @@ public class MultiCurrencyTest {
         product = five.times(3);
         assertEquals(15, product.amount);
     }
-
-
-
 }
-j8uujjuiimimiijiijmk
