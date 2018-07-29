@@ -17,4 +17,3 @@ public class MultiCurrencyTest {
 
 
 }
-j8uujjuiimimiijiijmk
